@@ -3,6 +3,9 @@ package com.arthur.jdk.javaproxy.jdk;
 import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Proxy;
 
+import com.arthur.jdk.javaproxy.UserService;
+import com.arthur.jdk.javaproxy.UserServiceImpl;
+
 public class Main {
 	
 	public static void main(String[] args) {

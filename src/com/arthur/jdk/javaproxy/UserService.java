@@ -1,4 +1,4 @@
-package com.arthur.jdk.javaproxy.jdk;
+package com.arthur.jdk.javaproxy;
 
 public interface UserService {
 	
